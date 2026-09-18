@@ -1,0 +1,6 @@
+{
+  "name": "Grammar Fixer",
+  "description": "Interactive English grammar challenge with 20 challenges, 3 levels, streak combos, timer, lives, writing box, teacher mode, performance reports, certificates, and celebration fireworks.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
